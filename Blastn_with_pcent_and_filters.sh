@@ -1,3 +1,5 @@
+#!/bin/bash
+
 file=xxx.fasta
 database=xxx.fasta
 min_pcent_query=0
